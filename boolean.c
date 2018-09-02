@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+int firstchang = 888;
 int main() {
         int i = 0;
         printf("i is %d\n", i);
